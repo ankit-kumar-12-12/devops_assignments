@@ -1,0 +1,2 @@
+docker tag node_v:latest ankit12121999/node_v:latest
+docker tag node_v:latest ankit12121999/node_v:latest
